@@ -45,9 +45,14 @@
     * Then upon success, we need to have the test branch merged automatically with the master branch .
 
     * Go to Post build Actions -> Git publisher . Then do the configurations as follows to merge the above branch (test) automatically upon a successful build.Branch to push = the branch that test branch is needed to be merged with(master in out case)Target remote = the remote repository name (git origin in our case).
+    ![JOB2](./14.png)
+
     ![JOB2](./8.png)
+
     ![JOB2](./9.png)
+
     ![JOB2](./10.png)
+
 ---
 
 ### 3. Ensure that both the ports are running
@@ -61,6 +66,9 @@
 NOTE : **You should be in your desktop directory,then only the above command will run.** 
 
 A public url will be generated that can be accessed by any one.
+
+On local vm the image of the site :
+![JOB2](./13.png)
 
 ![JOB2](./12.png)
 
