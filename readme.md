@@ -61,16 +61,17 @@
 
 ### 4.  Finally go to your vm and for the client to access your page write the below command
  ``` bash
-    ./ngrok http 8080
+    ./ngrok http 8089
  ```
 NOTE : **You should be in your desktop directory,then only the above command will run.** 
 
 A public url will be generated that can be accessed by any one.
 
-On local vm the image of the site :
+![JOB2](./12.png)
+
+### **The image of the site :**
 ![JOB2](./13.png)
 
-![JOB2](./12.png)
 
 ---
 ---
