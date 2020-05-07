@@ -5,7 +5,7 @@
 ### **GitHub** plugin should also be installed in Jenkins
 --- 
 
-1. **Create a local repo and also create one more branch apart from master (dev1) branch.** Write some code both in master and dev1 branch and push them to remote repo.
+1. **Create a local repo and also create one more branch apart from master (dev1) branch.** Create a txt file and some code both in master and dev1 branch and push them to remote repository.
 
 
 ![JOB1](./1.png)
